@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulocrp&label=Visitors&color=0e75b6&style=flat" alt="romulocrp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romulocrp" alt="romulocrp" /></a> </p>
-
 - 🌱 I’m currently learning **Sentiment analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/romulocrp](https://github.com/romulocrp)
@@ -37,6 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romulocrp&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&locale=en" alt="romulocrp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romulocrp&theme=highcontrast" alt="romulocrp" /></p>
-
-
 
