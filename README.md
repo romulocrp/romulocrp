@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love buddhism, might become a buddhist one day.**
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
