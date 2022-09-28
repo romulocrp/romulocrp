@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **romulolespaul@gmail.com**
 
-- ⚡ Fun fact **My left hand is slight bigger than the other.**
+- ⚡ Fun fact **My left hand is slightly bigger than the other.**
 
 
 <h3 align="left">Connect with me:</h3>
