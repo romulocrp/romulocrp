@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulocrp&label=Visitors&color=0e75b6&style=flat" alt="romulocrp" /> </p>
 
-- 🌱 I’m currently learning **Sentiment analysis**
+- 🌱 I’m currently learning **Building Web Sites with AI components.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/romulocrp](https://github.com/romulocrp)
 
 - 📝 I regularly write articles on [https://rcrp.medium.com/](https://rcrp.medium.com/)
 
-- 💬 Ask me about **Statistics, python, data viz.**
+- 💬 Ask me about **Statistics, Python, Data visuzalization.**
 
 - 📫 How to reach me **romulolespaul@gmail.com**
 
-- ⚡ Fun fact **I love buddhism, might become a buddhist one day.**
+- ⚡ Fun fact **My left hand is slight bigger than the other.**
 
 
 <h3 align="left">Connect with me:</h3>
